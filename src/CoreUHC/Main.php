@@ -21,7 +21,7 @@ use CoreUHC\commands\CoreUHCMainCommand;
 
 class Main extends PluginBase implements Listener{
 
-	const PREFIX = TF::GRAY."[".TF::AQUA."CoreUHC".TF::GRAY."]".TF::WHITE;
+	const PREFIX = TF::GRAY."[".TF::AQUA."KudaUHC".TF::GRAY."]".TF::WHITE;
 	const WORLD = "UHC-world";
 
 	public $teams = [];
